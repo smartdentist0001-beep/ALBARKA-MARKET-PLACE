@@ -49,4 +49,4 @@ Next steps & customization
 
 If you want, I can:
 - Output a ZIP-ready set of files,
-- Or push this scaffold to a GitHub repo (you must create the repo and provide owner/repo).
+- Or push this scaffold to a GitHub repo (you must create the repo and provide owner/repo)
