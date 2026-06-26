@@ -1,0 +1,6 @@
+node_modules
+.env.local
+.git
+scripts/seedProducts.js
+README.md
+README_PI_INTEGRATION.md
