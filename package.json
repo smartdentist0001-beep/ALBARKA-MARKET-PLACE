@@ -1,0 +1,18 @@
+{
+  "name": "latcintl-pi-marketplace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LATCINTL — a Pi Network marketplace dApp for fabrics, atamfa, and clothing for men, women and children.",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "engines": {
+    "node": ">=18.x"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^37.0.0"
+  }
+}
