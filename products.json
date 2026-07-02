@@ -1,0 +1,122 @@
+[
+  {
+    "id": "atm-001",
+    "category": "atamfa",
+    "name": "Royal Wax Atamfa — 6 Yards",
+    "description": "Premium 100% cotton wax-print atamfa, deep indigo ground with gold sunburst motif. Sold as a full 6-yard bundle.",
+    "price": 18.5,
+    "unit": "bundle",
+    "stock": 24,
+    "image": "https://placehold.co/600x600/1F1840/E8A93D?text=Royal+Wax+Atamfa"
+  },
+  {
+    "id": "atm-002",
+    "category": "atamfa",
+    "name": "Ahenema Gold Atamfa — 6 Yards",
+    "description": "Classic gold-and-crimson geometric atamfa, hand-selected for its high-contrast print and rich hand-feel.",
+    "price": 21.0,
+    "unit": "bundle",
+    "stock": 15,
+    "image": "https://placehold.co/600x600/1F1840/C63D3D?text=Ahenema+Gold"
+  },
+  {
+    "id": "atm-003",
+    "category": "atamfa",
+    "name": "Emerald Adinkra Atamfa — 6 Yards",
+    "description": "Emerald-green atamfa featuring an adinkra-inspired repeat, popular for celebration wear.",
+    "price": 19.75,
+    "unit": "bundle",
+    "stock": 18,
+    "image": "https://placehold.co/600x600/1F1840/1F7A5C?text=Emerald+Adinkra"
+  },
+  {
+    "id": "fab-001",
+    "category": "fabrics",
+    "name": "Kente-Weave Cotton — per Yard",
+    "description": "Hand-inspired kente-weave cotton, medium weight, ideal for tailored garments and accessories.",
+    "price": 4.25,
+    "unit": "yard",
+    "stock": 120,
+    "image": "https://placehold.co/600x600/1F1840/E8A93D?text=Kente+Weave"
+  },
+  {
+    "id": "fab-002",
+    "category": "fabrics",
+    "name": "Bogolan Mudcloth — per Yard",
+    "description": "Earth-toned bogolan-style mudcloth print on brushed cotton, great for structured pieces.",
+    "price": 5.0,
+    "unit": "yard",
+    "stock": 90,
+    "image": "https://placehold.co/600x600/1F1840/B9AFCF?text=Bogolan+Mudcloth"
+  },
+  {
+    "id": "fab-003",
+    "category": "fabrics",
+    "name": "Aso-Oke Metallic Weave — per Yard",
+    "description": "Lightweight aso-oke style weave with metallic gold threading, suited for occasion wear.",
+    "price": 7.5,
+    "unit": "yard",
+    "stock": 60,
+    "image": "https://placehold.co/600x600/1F1840/E8A93D?text=Aso-Oke+Weave"
+  },
+  {
+    "id": "men-001",
+    "category": "men",
+    "name": "Men's Atamfa Kaftan",
+    "description": "Full-length kaftan tailored from royal wax atamfa, embroidered neckline, relaxed fit.",
+    "price": 32.0,
+    "unit": "piece",
+    "stock": 40,
+    "image": "https://placehold.co/600x600/1F1840/C63D3D?text=Men%27s+Kaftan"
+  },
+  {
+    "id": "men-002",
+    "category": "men",
+    "name": "Men's Fitted Ankara Shirt",
+    "description": "Short-sleeve fitted shirt in gold Ahenema atamfa, mother-of-pearl buttons.",
+    "price": 22.5,
+    "unit": "piece",
+    "stock": 55,
+    "image": "https://placehold.co/600x600/1F1840/1F7A5C?text=Ankara+Shirt"
+  },
+  {
+    "id": "wom-001",
+    "category": "women",
+    "name": "Women's Atamfa Wrap Dress",
+    "description": "Knee-length wrap dress in emerald adinkra atamfa with matching head wrap.",
+    "price": 38.0,
+    "unit": "set",
+    "stock": 30,
+    "image": "https://placehold.co/600x600/1F1840/1F7A5C?text=Wrap+Dress"
+  },
+  {
+    "id": "wom-002",
+    "category": "women",
+    "name": "Women's Kente-Weave Kaba & Slit",
+    "description": "Two-piece kaba and slit in kente-weave cotton, tailored bodice, floor-length slit skirt.",
+    "price": 45.0,
+    "unit": "set",
+    "stock": 20,
+    "image": "https://placehold.co/600x600/1F1840/E8A93D?text=Kaba+%26+Slit"
+  },
+  {
+    "id": "chd-001",
+    "category": "children",
+    "name": "Children's Atamfa Playsuit",
+    "description": "Durable, easy-wash playsuit for ages 2–8 in gold Ahenema atamfa.",
+    "price": 14.0,
+    "unit": "piece",
+    "stock": 50,
+    "image": "https://placehold.co/600x600/1F1840/E8A93D?text=Kids+Playsuit"
+  },
+  {
+    "id": "chd-002",
+    "category": "children",
+    "name": "Children's Ankara Party Dress",
+    "description": "Twirl-ready party dress for ages 3–10, emerald adinkra atamfa with sash.",
+    "price": 16.5,
+    "unit": "piece",
+    "stock": 45,
+    "image": "https://placehold.co/600x600/1F1840/C63D3D?text=Kids+Party+Dress"
+  }
+]
