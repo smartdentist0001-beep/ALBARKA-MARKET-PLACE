@@ -1,23 +1,5 @@
 {
-  "version": 2,
-  "outputDirectory": "public",
-  "functions": {
-    "api/**/*.js": {
-      "maxDuration": 10
-    }
-  },
-  "headers": [
-    {
-      "source": "/validation-key.txt",
-      "headers": [
-        { "key": "Content-Type", "value": "text/plain; charset=utf-8" }
-      ]
-    },
-    {
-      "source": "/(.*)",
-      "headers": [
-        { "key": "X-Frame-Options", "value": "ALLOWALL" }
-      ]
-    }
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/public/index.html" }
   ]
 }
